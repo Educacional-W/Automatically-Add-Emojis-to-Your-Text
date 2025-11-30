@@ -1,0 +1,5 @@
+{
+  "name": "Automatically Add Emojis to Your Text",
+  "description": "A React application that enhances text with appropriate emojis using Google Gemini, featuring selectable tones and a responsive dashboard design.",
+  "requestFramePermissions": []
+}
